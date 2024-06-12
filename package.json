@@ -1,0 +1,30 @@
+{
+  "name": "alx-backend",
+  "version": "1.0.0",
+  "description": "0x00. Paginaotion alx",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Muigai-ben/alx-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Muigai-ben/alx-backend/issues"
+  },
+  "homepage": "https://github.com/Muigai-ben/alx-backend#readme",
+  "dependencies": {
+    "redis": "^4.6.14"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.24.7",
+    "@babel/core": "^7.24.7",
+    "@babel/preset-env": "^7.24.7",
+    "babel-node": "0.0.1-security",
+    "nodemon": "^3.1.3"
+  }
+}
